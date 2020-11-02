@@ -1,6 +1,6 @@
 ---
 id: 1
-image: './image.jpg'
-title: "Front-end Development"
+image: './rolodeck-frontpage.png'
+title: "Rolodeck"
 category: "React.js"
 ---

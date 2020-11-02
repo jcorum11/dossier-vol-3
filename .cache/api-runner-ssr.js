@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro/retro/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro2/retro/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["Poppins:300,400,400,700,800,900"],"display":"swap"},
     },{
-      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro/retro/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro2/retro/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro/retro/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/muroc/Desktop/code/js/portfolio/Retro2/retro/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
