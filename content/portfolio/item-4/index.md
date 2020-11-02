@@ -1,6 +1,6 @@
 ---
 id: 4
-image: './weblink-blog-front-page.png'
-title: "weBLINK"
-category: "Handlebars.js"
+image: './task-master-pro-front-page.png'
+title: "Task Master Pro"
+category: "jQuery"
 ---
