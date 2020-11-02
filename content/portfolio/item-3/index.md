@@ -1,6 +1,6 @@
 ---
 id: 3
-image: './image.jpg'
-title: "Angular Project"
-category: "Angular.js"
+image: './dd-initiative-tracker-front-page.png'
+title: "D&D Initiative Tracker"
+category: "jQuery"
 ---

@@ -22,13 +22,13 @@ class Hero extends React.Component {
               <div className="line-text">
                 <h4>Hello, I'm</h4>
               </div>
-              <Glitch text="John Neo" />
+              <Glitch text="Jacob Corum" />
               <Typewriter
                 options={{
                   strings: [
-                    'UI/UX Designer',
-                    'PHP Developer',
-                    'Mobile App Expert',
+                    'MERN Developer',
+                    'React Enthusiast ',
+                    'Mobile-First Zealot',
                   ],
                   autoStart: true,
                   loop: true,

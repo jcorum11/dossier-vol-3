@@ -1,6 +1,6 @@
 ---
 id: 4
-image: './image.jpg'
-title: "Angular + Ionic "
-category: "Angular.js"
+image: './task-master-pro-front-page.png'
+title: "Task Master Pro"
+category: "jQuery"
 ---
