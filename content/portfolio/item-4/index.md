@@ -1,6 +1,6 @@
 ---
 id: 4
-image: './image.jpg'
-title: "Angular + Ionic "
-category: "Angular.js"
+image: './weblink-blog-front-page.png'
+title: "weBLINK"
+category: "Handlebars.js"
 ---

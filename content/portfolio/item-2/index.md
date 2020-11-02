@@ -1,6 +1,6 @@
 ---
 id: 2
-image: './image.jpg'
-title: "Front-end Project"
-category: "React.js"
+image: './swap-squad-front-page.png'
+title: "Swap Squad"
+category: "Handlebars.js"
 ---
